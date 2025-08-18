@@ -4,9 +4,9 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-Carpus\Project Outputs for Twi
 ========================================================================================================================
 File Design Information:
 
-Date:       06/03/25
-Time:       20:31
-Revision:   acc91bbe9e13be6b24ced1c1676d24bc6b4b47c5
+Date:       18/08/25
+Time:       15:38
+Revision:   29092e6b72e120e8f87ee8b2342203dfbe58cf52
 Variant:    No variations
 Units used: mm
 
@@ -27,32 +27,32 @@ Units used: mm
 "R3","4.7500mm","22.5000mm","TopLayer","270","10kR"
 "U6","20.7500mm","2.0000mm","TopLayer","90","SK6805-EC15"
 "U5","9.2500mm","2.0000mm","TopLayer","90","SK6805-EC15"
-"R7","28.5000mm","13.5000mm","TopLayer","180","4.7kR"
+"R7","28.5000mm","13.5000mm","TopLayer","180","2.2kR"
 "C20","20.7500mm","3.5000mm","TopLayer","0","1uF"
 "U8","28.5000mm","9.7500mm","TopLayer","180","DRV2605LYZF"
-"R6","28.5000mm","12.5000mm","TopLayer","180","4.7kR"
+"R6","28.5000mm","12.5000mm","TopLayer","180","2.2kR"
 "C21","28.5000mm","8.2500mm","TopLayer","0","1uF"
 "C22","28.5000mm","11.5000mm","TopLayer","180","1uF"
 "C19","10.2500mm","4.2500mm","TopLayer","270","1uF"
 "U4","6.5000mm","3.5000mm","TopLayer","90","24AA32AT-I/MC"
-"R5","7.5000mm","1.0000mm","TopLayer","180","4.7kR"
-"R4","5.7500mm","1.0000mm","TopLayer","0","4.7kR"
+"R5","7.5000mm","1.0000mm","TopLayer","180","2.2kR"
+"R4","5.7500mm","1.0000mm","TopLayer","0","2.2kR"
 "C18","6.2500mm","6.0000mm","TopLayer","180","100nF"
 "C23_CH5","25.2500mm","22.2500mm","TopLayer","270","1uF"
 "C23_CH4","21.7500mm","25.2500mm","TopLayer","0","1uF"
 "C23_CH3","13.0000mm","25.2500mm","TopLayer","0","1uF"
 "C23_CH2","1.0000mm","26.5000mm","TopLayer","90","1uF"
 "C23_CH1","4.7500mm","17.2500mm","TopLayer","90","1uF"
-"R9_CH5","25.2500mm","17.0000mm","TopLayer","90","4.7kR"
-"R9_CH4","25.2500mm","25.2500mm","TopLayer","180","4.7kR"
-"R9_CH3","18.2500mm","25.2500mm","TopLayer","180","4.7kR"
-"R9_CH2","9.5000mm","25.2500mm","TopLayer","180","4.7kR"
-"R9_CH1","4.7500mm","20.7000mm","TopLayer","270","4.7kR"
-"R8_CH5","25.2500mm","18.7500mm","TopLayer","270","4.7kR"
-"R8_CH4","23.5000mm","25.2500mm","TopLayer","0","4.7kR"
-"R8_CH3","16.5000mm","25.2500mm","TopLayer","0","4.7kR"
-"R8_CH2","7.7500mm","25.2500mm","TopLayer","0","4.7kR"
-"R8_CH1","4.7500mm","19.0000mm","TopLayer","90","4.7kR"
+"R9_CH5","25.2500mm","17.0000mm","TopLayer","90","2.2kR"
+"R9_CH4","25.2500mm","25.2500mm","TopLayer","180","2.2kR"
+"R9_CH3","18.2500mm","25.2500mm","TopLayer","180","2.2kR"
+"R9_CH2","9.5000mm","25.2500mm","TopLayer","180","2.2kR"
+"R9_CH1","4.7500mm","20.7000mm","TopLayer","270","2.2kR"
+"R8_CH5","25.2500mm","18.7500mm","TopLayer","270","2.2kR"
+"R8_CH4","23.5000mm","25.2500mm","TopLayer","0","2.2kR"
+"R8_CH3","16.5000mm","25.2500mm","TopLayer","0","2.2kR"
+"R8_CH2","7.7500mm","25.2500mm","TopLayer","0","2.2kR"
+"R8_CH1","4.7500mm","19.0000mm","TopLayer","90","2.2kR"
 "J2_CH5","27.5000mm","20.0000mm","TopLayer","270","Molex 502426-2030"
 "J2_CH4","24.5000mm","27.5000mm","TopLayer","0","Molex 502426-2030"
 "J2_CH3","15.0000mm","27.5000mm","TopLayer","0","Molex 502426-2030"
